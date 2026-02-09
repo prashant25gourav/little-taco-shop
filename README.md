@@ -88,3 +88,4 @@ Use it only as a reference and complete your own implementation.
 
 Please follow the spirit of this policy:  
 https://www.freecodecamp.org/news/academic-honesty-policy/
+# Verified from Xubuntu
